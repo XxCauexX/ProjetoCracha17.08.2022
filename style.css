@@ -179,11 +179,7 @@ h1:hover {
     box-shadow: inset
 }
 
-
-
-@media (min-width: 960px){
-    
-    main {background: url(images/crachaLilas.svg) no-repeat center top;
-      
+@media (min-width: 960px){   
+    main {background: url(images/crachaLilas.svg) no-repeat center top;    
     }
 }
