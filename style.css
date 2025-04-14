@@ -61,10 +61,9 @@ main {
     z-index: 1;
     /*move a camada*/
     animation-name: animacao;
-    animation-duration: ;
+    /* animation-duration: ; */
     animation: animacao infinite 24s linear;
-
-
+    
 }
 
 .avatar>img {
